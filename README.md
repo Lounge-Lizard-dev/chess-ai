@@ -1,0 +1,2 @@
+# chess-ai
+failure ai
