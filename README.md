@@ -1,2 +1,2 @@
 # chess-ai
-failure ai
+chess ai
